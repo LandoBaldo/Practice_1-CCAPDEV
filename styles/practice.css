@@ -1,0 +1,28 @@
+/* 
+selector {
+    property: value;
+    property: value;
+}
+*/
+
+#container {
+    background-color: white;
+    padding: 40px;
+}
+
+body {
+    background-color: green;
+    padding: 16px ;
+    border: auto;
+    margin: 40px;
+}
+
+#profile_pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; /* This will turn the image into a circle */
+}
+
+div {
+    text-align: center;
+}
