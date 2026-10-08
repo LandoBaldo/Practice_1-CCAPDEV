@@ -8,6 +8,7 @@ selector {
 #container {
     background-color: white;
     padding: 40px;
+
 }
 
 body {
@@ -21,8 +22,16 @@ body {
     width: 200px;
     height: 200px;
     border-radius: 50%; /* This will turn the image into a circle */
+    border: 5px solid green;
 }
 
 div {
     text-align: center;
+}
+
+a {
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
 }
